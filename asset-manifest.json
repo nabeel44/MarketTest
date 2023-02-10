@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/test-deploy/static/css/main.fb368dff.css",
-    "main.js": "/test-deploy/static/js/main.cb61008e.js",
-    "static/media/logo.png": "/test-deploy/static/media/logo.1fad769b1a5e614a26d4.png",
-    "index.html": "/test-deploy/index.html",
-    "main.fb368dff.css.map": "/test-deploy/static/css/main.fb368dff.css.map",
-    "main.cb61008e.js.map": "/test-deploy/static/js/main.cb61008e.js.map"
+    "main.css": "/MarketVerse/static/css/main.fb368dff.css",
+    "main.js": "/MarketVerse/static/js/main.1597b6e9.js",
+    "static/media/logo.png": "/MarketVerse/static/media/logo.1fad769b1a5e614a26d4.png",
+    "index.html": "/MarketVerse/index.html",
+    "main.fb368dff.css.map": "/MarketVerse/static/css/main.fb368dff.css.map",
+    "main.1597b6e9.js.map": "/MarketVerse/static/js/main.1597b6e9.js.map"
   },
   "entrypoints": [
     "static/css/main.fb368dff.css",
-    "static/js/main.cb61008e.js"
+    "static/js/main.1597b6e9.js"
   ]
 }
